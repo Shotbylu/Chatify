@@ -1,8 +1,9 @@
 <div align="center">
 
-# Chatterbox
+# Chatify
 
 ### Personal Chat Room or Workspace to share resources and hangout with friends.
+![chatipy app](https://github.com/user-attachments/assets/de3bcd86-6eaf-4c9f-8cc4-0a8076e333fa)
 
 
 ## Build With
